@@ -48,7 +48,7 @@ This guide provides instructions to complete the activity using the command line
     git clone https://github.com/FranklinUniversityCompSciPracticum/GitActivities 
     ```  
 
-    Wait for the clone operation to complete.  You now have a copy of the GIT repository local to your machine.  You do not have any rights to make changes on this repository, however.  Therefore, to use this repository you would have to disconnect it and setup your own.
+    Wait for the clone operation to complete.  You now have a copy of the GIT repository local to your machine.  If you didn't have rights to the repository, you would have to disconnect it and setup your own.
 
 ### Setup your own Repository ###
 For the first part of this activity, you need to setup your own repository.  To do this, you need to make sure you have a google account.
