@@ -85,12 +85,14 @@ The base repository is where you forked, and your repository is where you will d
     ```  
     git commit -m "My first commit after changes"
     ```  
+    ![Run the clone command](images/Activity1/Image0109.png)  
 
     Finally, push the commit you just created locally to the remote repository:  
 
     ```
     git push origin master
     ```
+    ![Push changes from local to remote](images/Activity1/Image0110.png)  
 
     In future activiites, you will learn about branching strategies.
 
@@ -99,3 +101,37 @@ The base repository is where you forked, and your repository is where you will d
     In a real project, if you were making modifications, you could request the original person accept your changes from a pull request.
 
     Opening a pull request now will connect your repository to the main repository in order to let htem accept your changes into the base repository. 
+
+    Your repository should be at least one commit "ahead" of the other repository.  You may also be "behind" meaning others have made changes at that repository.  If others have made changes, you may have a conflict.  You would have to resolve the conflict before your "code" can be merged.
+
+    ![You can see if your code is ahead or behind at any time](images/Activity1/Image0111.png)  
+
+1. Use the link for "Pull Request" to make a new pull request.
+
+    Click the link to start the process.
+
+    ![Begin a pull request](images/Activity1/Image0112.png)
+
+2. With the pull request started, select your repository -> master branch into the base repository master branch.
+
+    You can do a PR from any branch to another.  As you can see, you can also do the PR from one repo to another, as long as they are connected.  
+
+    ![Begin a pull request](images/Activity1/Image0113.png)
+
+    Rest assured that only people who are allowed to do so will be able to merge your PR.  You may have to wait, days, weeks, months, or even years before the repository owner lets your code into the base repo.  
+
+    ![The repo owner will approve or deny your pull request](images/Activity1/Image0114.png)
+
+
+# Completion Criteria #
+At the end of this activity, you should have completed the following:   
+
+*   You have forked the GitActivities Repo.  
+
+*   You cloned the repo locally to your own machine.  
+
+*   You added and committed a change to your local repo.
+
+*   You pushed the local changes to your remote repo.
+
+*   You have opened a PR to the base repository.  Leave this open as part of the week 1/2 requirements.
