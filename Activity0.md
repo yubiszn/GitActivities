@@ -22,7 +22,7 @@ This guide provides instructions to complete the activity using the command line
 
     You should see a printout similar to what is shown in Image 1   
 
-    ![The GIT version is shown for git version 2.27.0.windows.1](images/Activity1/Image0001.png)
+    ![The GIT version is shown for git version 2.27.0.windows.1](images/Activity0/Image0001.png)
 
     If you do not have BASH or you don't have the version shown, download and install GIT from: 
 
@@ -40,7 +40,7 @@ This guide provides instructions to complete the activity using the command line
 
     Use the dropdown for `Code` to get the URL to clone.  Review Image 2 for more details.  
 
-    ![The Code dropdown is shown with arrows pointing to it, and it is expanded. The second arrow points to the button to press to copy the link for cloning](images/Activity1/Image0002.png)
+    ![The Code dropdown is shown with arrows pointing to it, and it is expanded. The second arrow points to the button to press to copy the link for cloning](images/Activity0/Image0002.png)
 
     Click on the `clipboard` icon to copy the URL to your clipboard.  Then run the command git clone and paste the url to follow it (of course you can do this for any public GIT repository):  
 
@@ -57,9 +57,9 @@ For the first part of this activity, you need to setup your own repository.  To 
 
     Begin by logging into your account, then select the Repositories tab, and then hit the `New` button.  Review image 3 for more detail:  
 
-    ![Select the button "New" to create a new repository](images/Activity1/Image0003.png)  
+    ![Select the button "New" to create a new repository](images/Activity0/Image0003.png)  
 
-    Give the repository a name, such as GitActivity1.  Choose public or private (If you are a student and you wish to remain anonymous or unseen by others you would need to choose private.  However, your instructor would also be unable to see your repository in this case, so you'd have to give them permission).
+    Give the repository a name, such as GitActivity0.  Choose public or private (If you are a student and you wish to remain anonymous or unseen by others you would need to choose private.  However, your instructor would also be unable to see your repository in this case, so you'd have to give them permission).
 
     Since you are using an established repository, you want to make sure to skip the `Initialize this repository...` and **DO NOT** add a gitignore or a license.  If you do any of these three things, you will have a commit and you will immediately have a merge conflict.
 
@@ -137,12 +137,12 @@ For the first part of this activity, you need to setup your own repository.  To 
     At GitHub, find your branches, and then select the button to change default branch. Review Image 4 to see this in action.
     
     
-    ![Find your master branch and select change default branch](images/Activity1/Image0004.png) 
+    ![Find your master branch and select change default branch](images/Activity0/Image0004.png) 
 
     Then use the dropdown to select main, and then hit the update button:
 
     
-    ![Use the dropdown to select main, then hit the update button](images/Activity1/Image0005.png) 
+    ![Use the dropdown to select main, then hit the update button](images/Activity0/Image0005.png) 
 
 You have now completed the activity where you have taken an existing repository and placed it under your own repository at github, with no connection to the original repository.
 
