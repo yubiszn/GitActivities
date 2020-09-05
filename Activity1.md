@@ -66,11 +66,15 @@ The base repository is where you forked, and your repository is where you will d
     git status
     ```  
 
+    ![Check status to see changes pending](images/Activity1/Image0107.png)  
+
     Then run the command
 
     ```
     git add .
     ```
+
+    ![Adding files stages them for commit](images/Activity1/Image0108.png) 
 
     Which will move your change from modified or untracked to staged.  
 
