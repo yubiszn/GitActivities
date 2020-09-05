@@ -4,6 +4,7 @@ This first activity is for information only.  You will not need to complete this
 
 If you are struggling with any of the concepts required for this assignment, make sure to review the video course to find out more about how to perform a specific command, or just get more practice and understanding of the topic presented.
 
+>Important: Make sure you have GIT installed for use on your computer.
 
 ### Step 1: Clone this repository ###
 To begin, you need to clone the repository.  There are many ways to do this, including, but not limited to:
@@ -36,7 +37,7 @@ This guide provides instructions to complete the activity using the command line
     git config --global user.email "youremail@yourprovider.com"
     ```  
 
-2. Browse to the directory where you will be storing your solutions, such as `C:\\Projects`.  Make sure to browse to this repository in any browser https://github.com/FranklinUniversityCompSciPracticum/GitActivities  
+2. Browse to the directory where you will be storing your solutions, such as `C:\Projects`.  Make sure to browse to this repository in any browser https://github.com/FranklinUniversityCompSciPracticum/GitActivities  
 
     Use the dropdown for `Code` to get the URL to clone.  Review Image 2 for more details.  
 
