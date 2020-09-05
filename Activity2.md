@@ -18,7 +18,7 @@ This guide provides instructions to complete the activity using the command line
 
     You should see a printout similar to what is shown in Image 1   
 
-    ![The GIT version is shown for git version 2.27.0.windows.1](images/Activity1/Image0001.png)
+    ![The GIT version is shown for git version 2.27.0.windows.1](images/Activity0/Image0001.png)
 
     If you do not have BASH or you don't have the version shown, download and install GIT from: 
 
@@ -36,7 +36,7 @@ This guide provides instructions to complete the activity using the command line
 
     Use the dropdown for `Code` to get the URL to clone.  Review Image 2 for more details.  
 
-    ![The Code dropdown is shown with arrows pointing to it, and it is expanded. The second arrow points to the button to press to copy the link for cloning](images/Activity1/Image0002.png)
+    ![The Code dropdown is shown with arrows pointing to it, and it is expanded. The second arrow points to the button to press to copy the link for cloning](images/Activity0/Image0002.png)
 
     Click on the `clipboard` icon to copy the URL to your clipboard.  Then run the command git clone and paste the url to follow it (of course you can do this for any public GIT repository):  
 
