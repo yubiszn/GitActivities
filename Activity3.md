@@ -1,7 +1,8 @@
 # Git Activity 3: Create and resolve a merge conflict #
 In this activity, you need to create and resolve a merge conflict.  You can do this on any of your own repositories.  If you don't have a repository, you should create one that you can work against.
 
-## Task 1: Create the initial commit ##
+## Task 1: Create the initial commit ##  
+
 To begin, create a new branch off of master.  You can name the branch whatever you would like.  Your repository needs to have at least one file you can modify that has already been checked in.  If you don't have this, first create the repository and make sure to add a file you can easily modify.
 
 1. Create a branch with a name something like merge-conflict-activity-one  
@@ -24,7 +25,8 @@ To begin, create a new branch off of master.  You can name the branch whatever y
 
     Create a pull request but do not merge the pull request.
 
-## Task 2: Create the conflict ##
+## Task 2: Create the conflict ##  
+
 In this second task, you will modify the same file as in task 1 on a different branch.  This will simulate two team members working on the same file at the same time.
 
 1. Checkout master, then checkout a new branch.
