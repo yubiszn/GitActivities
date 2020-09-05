@@ -169,4 +169,4 @@ In this task, you will run commands to make sure that you have the latest code a
 
     ![Reviewing the pull request](images/Activity2/Image0210.png)
     
-This will complete your GIT activity.  In this activity, you learned how to work with a branch and create a pull request so that you can ensure your changes can be merged into the repository without creating a conflict.
+This will complete your GIT activity.  In this activity, you learned how to work with a branch and create a pull request so that you can ensure your changes can be merged into the repository without creating a conflict.  
