@@ -1,51 +1,10 @@
 # Git Activity 2 - Work as a Team member #
 In this second activity, you'll work like you are a member of the team.  This activity will give you a good overview of how you can work with the repository while minimizing your team conflicts.
 
-### Step 1: Clone this repository ###
-To begin, you need to clone the repository.  There are many ways to do this, including, but not limited to:
-*   Use a popular tool like GitKraken, VSCode with GitLens, or Visual Studio
-*   Use the command line to simply run commands on your directory.
+### Step 1: Complete activity 1 ###
+If you have not completed activity 1, you should do that prior to this activity.
 
-This guide provides instructions to complete the activity using the command line.
-
-1. Make sure you have GIT installed on your local machine.  If you do not have Git installed, you can easily do so.
-
-    Open a BASH terminal and type the command  
-
-    ```
-    git --version
-    ```  
-
-    You should see a printout similar to what is shown in Image 1   
-
-    ![The GIT version is shown for git version 2.27.0.windows.1](images/Activity0/Image0001.png)
-
-    If you do not have BASH or you don't have the version shown, download and install GIT from: 
-
-    ```  
-    https://git-scm.com/downloads
-    ```  
-    If you are installing GIT for the first time, make sure to open a BASH terminal and run the following commands to validate that your account is setup with the correct credentials:  
-
-    ```  
-    git config --global user.name "Your.Name"
-    git config --global user.email "youremail@yourprovider.com"
-    ```  
-
-2. Browse to the directory where you will be storing your solutions, such as `C:\\Projects`.  Make sure to browse to this repository in any browser https://github.com/FranklinUniversityCompSciPracticum/GitActivities  
-
-    Use the dropdown for `Code` to get the URL to clone.  Review Image 2 for more details.  
-
-    ![The Code dropdown is shown with arrows pointing to it, and it is expanded. The second arrow points to the button to press to copy the link for cloning](images/Activity0/Image0002.png)
-
-    Click on the `clipboard` icon to copy the URL to your clipboard.  Then run the command git clone and paste the url to follow it (of course you can do this for any public GIT repository):  
-
-    ```   
-    git clone https://github.com/FranklinUniversityCompSciPracticum/GitActivities 
-    ```  
-
-    Wait for the clone operation to complete.  You now have a copy of the GIT repository local to your machine.  As a member of this organization, you will have rights to be able to work against this repository.  
-
+1.  Use your `forked` version of the repo to complete the activity.
 
 ## Task 2: Checkout a new branch ##
 Whenever you start on a new ticket, before you begin any work, you should make sure to get the latest version of the code, then checkout a branch.
