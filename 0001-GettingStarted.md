@@ -67,6 +67,10 @@ There are a number of possible tools that you will need.  Talk to your team lead
 
 10. Docker Desktop
     
+## Additional Tools ##
+
+If you would like, I have videos on how to set up a dev box for Windows developers. [Here is the playlist](https://www.youtube.com/watch?v=uQiL5-cjhJM&list=PLM_PAXX-MC3zSoFd-OKCXoqKx8UwWPI1V)  
+
 ## Final Thoughts ##  
 
 Ok, that is a LOT of tools, and it's not all-inclusive.  Yes, it is, but each has a highly useful purpose, and each will aid you in some part of the development lifecycle.  The truth is you can pretty much do everything in Visual Studio, but it is not as useful and easy to do, so it's better to set your machine, and you, up for success.
