@@ -71,9 +71,7 @@ In this task, you will run commands to make sure that you have the latest code a
     * Your Favorite Quote
     * Who said it (yes, it can be from a movie)
     * What is your preferred tech stack (Java/Microsoft/MySql/Sql/Postgres/Vue/Angular/React/HTML/PHP)
-
-    ![The new file is created](images/Activity2/Image0204.png)
-
+    * 
     Save and close the file. **NOTE** Do not put personal information in the text of the file. Thanks!
 
 4. Commit your changes
